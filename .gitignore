@@ -1,0 +1,12 @@
+# Dependencies — run `npm install` to regenerate
+node_modules/
+
+# Build output
+dist/
+out/
+
+# macOS
+.DS_Store
+
+# Electron builder cache
+.electron-builder-cache/
